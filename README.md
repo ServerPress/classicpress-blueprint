@@ -1,12 +1,7 @@
-# gutenberg-blueprint
-A DesktopServer blueprint that dynamically creates a Gutenburg test site
+# classicpress-blueprint
+A DesktopServer blueprint that dynamically creates a ClassicPress test site
 
-* Download the latest version of WordPress and install
-* Download the latest Gutenberg Plugin, install and activate
-* Download the Gutenburg Theme, install and activate 
-* Fetch the example Testimonial block plugin, install and activate*
-* Save the permalinks as %postname%
-* And check the discourage search engines from indexing
+* Download the latest version of ClassicPress and install
 
 To install, download it and move it into:
 
